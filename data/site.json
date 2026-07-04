@@ -1,0 +1,151 @@
+{
+  "artist": {
+    "name": "Vadim Pugin",
+    "tagline": "New York based multidisciplinary artist",
+    "intro": "Bridges the tangible and the digital, combining ceramic sculptures, found objects, and algorithms into total installations that re-cut the fabric of the presentness."
+  },
+  "statement": "Fusing sculptures, sound installations and cybernetics actors to explore time's fluidity and bending temporal perception through art. My practice merges the tangible and the digital — ceramic sculptures, found objects, and algorithms woven into total installations that re-cut the fabric of the present.",
+  "bio": [
+    "Vadim Pugin (b. 1986, USSR) is a New York–based multidisciplinary artist whose practice merges the tangible and the digital. Bridging ceramic sculptures, found objects, and algorithms into total installations that re-cut the fabric of the present, he challenges conventional notions of presence and perception. Pugin earned a master's degree from the Russian State University for the Humanities (RGGU) and studied contemporary art at the Learning Environment school. He further refined his approach under the mentorship of Dmitry Morozov (::vtol::), Alexander Povzner, and Arseny Zhilyaev.",
+    "Before dedicating himself fully to the arts, Pugin spent 16 years in the AdTech industry, gaining a deep understanding of emerging AI, big data, and surveillance technologies. Among his recent achievements are winning the 2023 Vyksa Festival's Open Competition for Urban Sculptures with Resitor Group and exhibiting at the Tretyakov Gallery's IX Moscow International Biennale of Contemporary Art."
+  ],
+  "contacts": {
+    "email": "vadim.pugin@gmail.com",
+    "instagram": "https://www.instagram.com/mozgo/",
+    "tiktok": "https://www.tiktok.com/@mozgotronica"
+  },
+  "featuredEvent": {
+    "title": "Holy Tech Altars",
+    "subtitle": "Current exhibition theme",
+    "description": "Cult objects for the Holy Tech liturgical space envelop and immerse visitors in a world where spiritual practices are curated by AI. This unique space structures the subconscious not through words, but through data.",
+    "image": "/works/holytech/00-76d87d_6285f31cee0640f4b5cf632207aba30f.png",
+    "workId": "holytech"
+  },
+  "works": [
+    {
+      "id": "the-pan-and-his-arms",
+      "title": "The Pan and his Arms",
+      "description": "In the modern Baroque garden of the digital realm, algorithmic entities reign supreme. Like nymphs—fluid in form and gender—they skillfully capture personal data, transmuting our deepest desires into commodities. This creates a closed loop, where platforms feed on human inclinations, accelerating their relentless growth.",
+      "featuredImage": "/works/the-pan-and-his-arms/00-76d87d_b868d6007ac2465eb16ffe2936f68aba.jpg",
+      "images": [
+        "/works/the-pan-and-his-arms/00-76d87d_b868d6007ac2465eb16ffe2936f68aba.jpg",
+        "/works/the-pan-and-his-arms/01-76d87d_5bc56d7ecfe74d1fb07bf9fa64b133b1.jpg",
+        "/works/the-pan-and-his-arms/02-76d87d_2cf76df9ae1f4fed890bf8eb45f6cbf0.jpg",
+        "/works/the-pan-and-his-arms/03-76d87d_2e440fa876154cf982fd51fd58def922.jpg",
+        "/works/the-pan-and-his-arms/04-76d87d_c7db36d32a5b42519dd28c5a045c36a4.jpg",
+        "/works/the-pan-and-his-arms/05-76d87d_fa20f3c8539a471ea36290d8bb11bcab.jpg",
+        "/works/the-pan-and-his-arms/06-76d87d_7e17745628de47ceba40df1e288879ba.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "the-observer",
+      "title": "The Observer",
+      "description": "Materials: Ceramics, steel, mirror, glass\n11 in х 5 in х 6,5 in\n\nIn The Observer, reflective surfaces and organic ceramic forms converge to create a deeply interactive experience. The mirrored lens at the sculpture’s core turns onlookers into participants, instilling a subtly disconcerting awareness of surveillance. By sparking a moment of self-recognition in one’s own reflection, The Observer compels us to question who is truly being studied—are we the observers, or are we the observed?",
+      "featuredImage": "/works/the-observer/00-76d87d_be019204a97246c9b756017e35ee2706.jpg",
+      "images": [
+        "/works/the-observer/00-76d87d_be019204a97246c9b756017e35ee2706.jpg",
+        "/works/the-observer/01-76d87d_0bfd4342c8f4411aae91d620a791fe29.jpg",
+        "/works/the-observer/02-76d87d_1ee86bc32fe04540b68610d0c97542dd.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "the-19th-year-of-the-tides",
+      "title": "The 19th Year of the Tides",
+      "description": "Marking the start of a new tidal cycle every 18 years and 7 months, this artwork captures the essence of time and transformation. It showcases a pearl emitting 365 unique light sequences, each reflecting a day’s highest tide in Los Angeles for the year. Created to celebrate the 19th anniversary of the beloved friends.\n\nComposed of glazed ceramics, wood, metal, a microcontroller, LEDs, glass, and resin. Dimensions: 60 x 30 x 30 cm (24 x 12 x 12 inches).",
+      "featuredImage": "/works/the-19th-year-of-the-tides/00-76d87d_9e5ad16589cd405489a1d4f3c73798cc.jpg",
+      "images": [
+        "/works/the-19th-year-of-the-tides/00-76d87d_9e5ad16589cd405489a1d4f3c73798cc.jpg",
+        "/works/the-19th-year-of-the-tides/01-76d87d_0e8d93699a334ce5ac38cb10694889a7.jpg",
+        "/works/the-19th-year-of-the-tides/02-76d87d_ee3320ef60a448b987529c3cff73e049.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "holytech",
+      "title": "Holy Tech Altars",
+      "description": "Cult objects for the Holy Tech liturgical space envelop and immerse visitors in a world where spiritual practices are curated by AI. This unique space structures the subconscious not through words, but through data. The altars are part of the corporate collection of Holy Tech. All rights reserved.",
+      "featuredImage": "/works/holytech/00-76d87d_6285f31cee0640f4b5cf632207aba30f.png",
+      "images": [
+        "/works/holytech/00-76d87d_6285f31cee0640f4b5cf632207aba30f.png",
+        "/works/holytech/01-76d87d_57c352fc966d4220a2b8976fa3bdddb3.jpg",
+        "/works/holytech/02-76d87d_4c4a9943b5d347c1bf3d16eff331fcd8.jpg",
+        "/works/holytech/03-76d87d_bc8d91ab922b494ea62d79db57b6b80d.jpg",
+        "/works/holytech/04-76d87d_3e0889deb3a34c04a1fe83160b060fa1.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "sculptures-objects-videoart-soundart",
+      "title": "Infrathin Dialogues",
+      "description": "Living on the Bodrum Peninsula,  I found myself entirely captivated by a geologically diverse landscape, from rugged beaches to volcanic formations and towering mountains. This tactile odyssey led me to clay, which serves not only as a creative medium but also as a tangible link to a complex array of underlying minerals\n\nFascinated by scientific theories positing that life emerged from clay-rich environments favorable for complex chemical reactions, I find myself transforming this basic material into fantastical forms of life.\n\nAs I shape this earthly substance into beings that vibrate in their unique, non-human ways, I am challenging both myself and others to broaden our perceptions of sensing, feeling, and ultimately, being.\n\nInstallation consist of two objects\n\nInfrathin Object 1\nCeramics, Amp, Sensors, Mic, LEDS, Controller\n75 x 60 x 50 CM\n 30 x 24 x 16 IN\n\nInfrathin Object 2\nCeramics, Amp, Sensors, Mic, Leds, Controller\n30 x 30 x 25 CM\n16 x 12 x 10 IN",
+      "featuredImage": "/works/sculptures-objects-videoart-soundart/00-76d87d_465e70cc26b042f2af6f17087ad17b17.jpg",
+      "images": [
+        "/works/sculptures-objects-videoart-soundart/00-76d87d_465e70cc26b042f2af6f17087ad17b17.jpg",
+        "/works/sculptures-objects-videoart-soundart/01-76d87d_871da93724824f9c908576d257b79087.jpg",
+        "/works/sculptures-objects-videoart-soundart/02-76d87d_e4d37a6d0ac243bb9a4badff884f226e.jpg",
+        "/works/sculptures-objects-videoart-soundart/03-76d87d_9fad90416d5a436696d498818eb38f49.jpg",
+        "/works/sculptures-objects-videoart-soundart/04-76d87d_cf9bea559d7a4520ad40cf6df4b6ded1.jpg",
+        "/works/sculptures-objects-videoart-soundart/05-76d87d_0636422a55a5462384e2c44e968d006b.jpg",
+        "/works/sculptures-objects-videoart-soundart/06-76d87d_34f4d0f79e2344f8be6801e3dde79720.jpg",
+        "/works/sculptures-objects-videoart-soundart/07-76d87d_23c7f7d547654eaab569b66df41409a3.jpg",
+        "/works/sculptures-objects-videoart-soundart/08-76d87d_eab8f1a9a8744317ab55420e7dd19a5b.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "rilee",
+      "title": "Fragile sea hearts",
+      "description": "This ceramic cradle contains seven of the thinnest organic shells of sea urchins, known as 'heart urchins' (Echinocardium cordatum). They were retrieved by the artist from depths of 10-20 meters and placed into custom-made slots equipped with LED lighting.\n\nOn the front part of the piece, there's a heart rate monitor installed. It reads the heartbeat of a person and synchronizes it with the lighting, creating a unified and subtly delicate connection with sea hearts.",
+      "featuredImage": "/works/rilee/00-76d87d_f2209e2e859f4201b6086cfd2468f989.jpg",
+      "images": [
+        "/works/rilee/00-76d87d_f2209e2e859f4201b6086cfd2468f989.jpg",
+        "/works/rilee/01-76d87d_42f1001936ff4a96be07c0637c77da1d.jpg",
+        "/works/rilee/02-76d87d_9301dff3470b467db12e9822ac2a4a60.jpg",
+        "/works/rilee/03-76d87d_a9d5c32d50a24728bb8da1f835f61a6a.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "dunes-secret",
+      "title": "Evaporation",
+      "description": "The installation is a mechanism for the sacred evaporation of birch sap, a symbol of vitality, on a sacrificial altar, consisting of architectural plans for buildings with a repressive history.\nBirch has long been considered a symbol of purity and spring. During the spring the tree can share some of its useful and valuable nutritious juice. What will happen to a birch when the interference in its awakening becomes so strong that all the juices that it gives, evaporating drop by drop, are absorbed by the structures that have grown into its base?\n\nThe work is dedicated to \"Memorial,\" the largest center for the study of political repressions, which itself was subjected to repression and closed by the Russian government.",
+      "featuredImage": "/works/dunes-secret/00-76d87d_d2a011f865e340e1b8fbe097169fea62.png",
+      "images": [
+        "/works/dunes-secret/00-76d87d_d2a011f865e340e1b8fbe097169fea62.png",
+        "/works/dunes-secret/01-76d87d_baf936b7abaf4f7d93d594e946f5a2c2.png",
+        "/works/dunes-secret/02-76d87d_4def0e033f2e404da4065ec632e71a27.png",
+        "/works/dunes-secret/03-76d87d_27b1d1eac8914dcca9e4b597bdcc1b0b.png",
+        "/works/dunes-secret/04-76d87d_9debf922f7bc4129b995bb7758b22fd4.png"
+      ],
+      "videos": []
+    },
+    {
+      "id": "sculptures-art-objects-soundart-videoart",
+      "title": "Melting",
+      "description": "During the performance, I demonstrate to the ancient mountains a bizarre pattern of interwoven architectural plans of the Senate Palace of the Kremlin, Lubyanka 2, Butyrskaya, and Lefortovo prisons. In Moscow, these buildings create a single mechanism of suppression that seems icy and unshakable. Melting measures the human and solar impact that causes the ice-crystal structure to disappear.",
+      "featuredImage": "/works/sculptures-art-objects-soundart-videoart/00-76d87d_d3ff843c2af146d992acb87deef98e20.jpg",
+      "images": [
+        "/works/sculptures-art-objects-soundart-videoart/00-76d87d_d3ff843c2af146d992acb87deef98e20.jpg",
+        "/works/sculptures-art-objects-soundart-videoart/01-76d87d_4ed851e4110248bbbf350f443f15010d.jpg"
+      ],
+      "videos": [
+        "/works/sculptures-art-objects-soundart-videoart/video-0.mp4"
+      ]
+    },
+    {
+      "id": "baobab-tales",
+      "title": "On a Bird Wave",
+      "description": "As a member of the art group Resistor Group, became the winner of the open-call \"Vyksa Festival\" and created a 7-meter sound sculpture. The installation \"On the Bird's Wave\" consisting of a multitude of birdhouses is a metaphor for a common home as a unity of multitude. Several bird feeders and birdhouses in Vyksa parks record bird sounds and transmit them to a central sound sculpture, which synthesizes a sound stream from them, accessible both nearby and from any point in the world online. Birds notice people better than people notice birds. The object draws attention to their existence, helps residents see Vyksa in a new way, and feel themselves a part of a unified whole.",
+      "featuredImage": "/works/baobab-tales/00-76d87d_7e613d50c7e74c75a13ea0b8031bd3c0.jpg",
+      "images": [
+        "/works/baobab-tales/00-76d87d_7e613d50c7e74c75a13ea0b8031bd3c0.jpg",
+        "/works/baobab-tales/01-76d87d_a169500680a04460b84b9b8331e8f0b5.jpg"
+      ],
+      "videos": [
+        "/works/baobab-tales/video-0.mp4"
+      ]
+    }
+  ]
+}
